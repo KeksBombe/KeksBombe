@@ -18,14 +18,14 @@ Hier sind ein paar Projekte, auf die ich besonders stolz bin:
 
 ## 📚 Ich lerne gerade
 
-- Ich vertiefe mich derzeit in [Technologie/Sprache]
-- Exploriere [Technologie/Sprache]
-- Experimentiere mit [Technologie/Sprache]
+- Ich vertiefe mich derzeit in App Entwicklung verschiedenster Form
+- Exploriere Flutter, React Native, Webentwicklung,...
+- Experimentiere mit verschiedensten Dingen
 
 ## 🤝 Connect with me
 
-- **LinkedIn**: [Dein LinkedIn](LinkedIn-URL)
-- **Twitter**: [@DeinTwitter](Twitter-URL)
+- **LinkedIn**: hab ich nicht
+- **Twitter**: ahh nee
 
 ![Social Media](https://media.giphy.com/media/iDCLcl7D81aYsWVRbd/giphy.gif)
 
