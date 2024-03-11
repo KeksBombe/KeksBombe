@@ -1,4 +1,4 @@
-# Hi there, ich bin [Dein Name]! 👋
+# Hi there, ich bin Morv! 👋
 
 ## 👨‍💻 Programmieren ist meine Leidenschaft
 
@@ -31,9 +31,7 @@ Hier sind ein paar Projekte, auf die ich besonders stolz bin:
 
 ## 📈 Meine GitHub Stats
 
-![Deine GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=deingithubbenutzername&show_icons=true&theme=radical)
-
-> Hinweis: Ersetze `deingithubbenutzername` mit deinem tatsächlichen GitHub-Benutzernamen, um deine Statistiken anzuzeigen.
+![Deine GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=KeksBombe&show_icons=true&theme=radical)
 
 ---
 
